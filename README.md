@@ -8,7 +8,7 @@ Testing some examples from the book "Bioinformatics with Python Cookbook"
 
 Create enviroment:
 `
-conda create -n bioinformatic_python python=3 numpy scipy pandas jupyter notebook Biopython matplotlib
+conda create -n bioinformatic_python python=3.6 numpy scipy pandas jupyter notebook Biopython matplotlib
 `
 
 #### Bioconda
